@@ -1,5 +1,6 @@
 body {
     background-image: url("Images/bkgrd_img.jpg");
+    font-family: 'Comfortaa', cursive;
 }
 
 h3 {
@@ -15,6 +16,7 @@ h3 {
 #homePage {
     text-align: center;
     color: rgb(184, 13, 13);
+    font-family: 'Comfortaa', cursive;
 }
 
 #frontBtn {
@@ -40,6 +42,7 @@ h3 {
 #bioTxt {
     color: white;
     font-size: 15px;
+    font-family: 'Comfortaa', cursive;
 }
 
 p {
