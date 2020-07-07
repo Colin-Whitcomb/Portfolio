@@ -1,0 +1,12 @@
+body {
+    background-image: url("Images/bkgrd_img.jpg");
+}
+
+h1 {
+    color: lightgray;
+}
+
+#frontName {
+    text-align: center;
+    color: red;
+}
