@@ -11,9 +11,6 @@ h3 {
     text-align: center;
 
 }
-#text {
-/* background-color: white; */
-}
 
 #homePage {
     text-align: center;
@@ -36,6 +33,15 @@ h3 {
 }
 
 #profileImg {
-    max-width: 30%;
+    max-width: 100%;
     border-radius: 5%;
+}
+
+#bioTxt {
+    color: white;
+    font-size: 15px;
+}
+
+p {
+ color: white;
 }
