@@ -45,6 +45,20 @@ h3 {
     font-family: 'Comfortaa', cursive;
 }
 
-p {
- color: white;
+#proj1 {
+    max-width: 100%;
+}
+
+.carousel .carousel-item {
+    visibility: hidden;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#miles {
+    max-width: 30%;
+    align-content: flex-start;
 }
