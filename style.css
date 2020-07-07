@@ -2,11 +2,40 @@ body {
     background-image: url("Images/bkgrd_img.jpg");
 }
 
-h1 {
+h3 {
     color: lightgray;
+}
+
+#frontSection {
+    /* background-color: rgb(48, 2, 2); */
+    text-align: center;
+
+}
+#text {
+/* background-color: white; */
+}
+
+#homePage {
+    text-align: center;
+    color: rgb(184, 13, 13);
+}
+
+#frontBtn {
+    background-color: rgb(184, 13, 13);
+    color: white;
 }
 
 #frontName {
     text-align: center;
-    color: red;
+    color: rgb(184, 13, 13);
+}
+
+.nav-wrapper {
+    background-color: black;
+    
+}
+
+#profileImg {
+    max-width: 30%;
+    border-radius: 5%;
 }
