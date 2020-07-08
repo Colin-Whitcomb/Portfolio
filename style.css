@@ -1,7 +1,14 @@
 body {
     background-image: url("Images/bkgrd_img.jpg");
     font-family: 'Comfortaa', cursive;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
+
+main {
+    flex: 1 0 auto;
+  }
 
 h3 {
     color: lightgray;
@@ -61,4 +68,23 @@ h3 {
 #miles {
     max-width: 30%;
     align-content: flex-start;
+}
+
+.page-footer {
+    background-color: black;
+    text-align: center;
+    float: none;
+}
+
+.footerBtn {
+    color: rgb(184, 13, 13);
+}
+
+#logo {
+    max-height: 5vh;
+}
+
+#frontLogo {
+    max-height: 200px;
+    align-content: center;
 }
