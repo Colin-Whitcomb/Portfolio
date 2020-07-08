@@ -42,8 +42,10 @@ h3 {
 }
 
 #profileImg {
-    max-width: 100%;
+    max-width: 60%;
     border-radius: 5%;
+    float: left;
+    padding: 12px;
 }
 
 #bioTxt {
@@ -105,6 +107,16 @@ h3 {
 .footerLinks{
     color: rgb(227, 34, 34);
 }
+
+@media only screen and (max-width: 600px) {
+    #profileImg {
+        max-width: 100%;
+        border-radius: 5%;
+        float: left;
+        padding: 12px;
+    }
+  }
+
 /* .card {
 border-style: solid;
 } */
