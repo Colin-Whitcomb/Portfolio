@@ -1,5 +1,5 @@
 body {
-    background-image: url("Images/bkgrd_img.jpg");
+    background-image: url("assets/images/save2.jpg");
     font-family: 'Comfortaa', cursive;
     display: flex;
     min-height: 100vh;
@@ -11,7 +11,7 @@ main {
   }
 
 h3 {
-    color: lightgray;
+    color: black;
 }
 
 #frontSection {
@@ -47,7 +47,7 @@ h3 {
 }
 
 #bioTxt {
-    color: white;
+    color: black;
     font-size: 15px;
     font-family: 'Comfortaa', cursive;
 }
@@ -85,6 +85,26 @@ h3 {
 }
 
 #frontLogo {
-    max-height: 200px;
+    max-height: 175px;
     align-content: center;
 }
+#testCard {
+    max-height: 400px;
+    max-width: 300px;
+
+}
+
+.portfolioLinks {
+    color: rgb(184, 13, 13);
+}
+
+.and {
+    color: black;
+}
+
+.footerLinks{
+    color: rgb(227, 34, 34);
+}
+/* .card {
+border-style: solid;
+} */
