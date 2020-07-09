@@ -23,7 +23,7 @@ Portfolio + About Me
 </h4>
 
 
-<p align="center">
+<p style="align:center">
     <img src="assets/ss2.png" width="500" />
 </p>
 <br>
