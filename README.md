@@ -18,12 +18,12 @@ as a CSS Framework. For extra individualisation, I constructed a first draft log
 
 ## Screenshots 
 
-<h4 align="center">
+<h3 align="center">
 Portfolio + About Me
-</h4>
+</h3>
 
 
-<p style="align:center">
+<p align="center">
     <img src="assets/ss2.png" width="500" />
 </p>
 <br>
