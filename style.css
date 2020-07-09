@@ -1,9 +1,10 @@
 body {
-    background-image: url("assets/images/save2.jpg");
-    font-family: 'Comfortaa', cursive;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-image: url("assets/images/save2.jpg");
+    font-family: 'Comfortaa', cursive;
+
 }
 
 main {
@@ -118,14 +119,27 @@ h3 {
 }
 
 .footerLinks {
-    color: rgb(184, 13, 13);
+    color: rgb(233, 43, 43);
 }
 
 .contactInfo {
     color: rgb(184, 13, 13);
 }
 
-@media only screen and (max-width: 600px) {
+.contact {
+    text-align: center;
+}
+
+.fakeFooter {
+    border-top: 3px solid black;
+    padding-top: 8px;}
+
+.card {
+    margin-bottom: 5px;
+}
+
+
+@media only screen and (max-width: 420px) {
     #profileImg {
         max-width: 100%;
         border-radius: 5%;
@@ -157,6 +171,15 @@ h3 {
     .contact {
         max-width: 100%;
         text-align: center;
+    }
+
+    .card {
+        max-height: 150px;
+        padding-left: 10px;
+    }
+
+    #frontLogo {
+        max-width: 125px;
     }
 }
 
