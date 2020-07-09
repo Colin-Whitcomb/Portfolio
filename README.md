@@ -2,14 +2,10 @@
 <div style="text-align:center">
     <img src="assets/ss1.png" width="650" />
 </div>
-<div style="text-align:center">
 
-</div>
-
-<div style="text-align:center">
-
-## Deployed <a href="https://colin-whitcomb.github.io/Portfolio/">Site</a>
-</div>
+<h2 align="center">
+Deployed <a href="https://colin-whitcomb.github.io/Portfolio/">Site</a>
+</h2>
 
 ## Summary & Processs
 
