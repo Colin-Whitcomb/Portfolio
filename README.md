@@ -17,10 +17,11 @@ In an attempt to differentiate from every ... bootstrap website ever, I went ahe
 as a CSS Framework. For extra individualisation, I constructed a first draft logo and made sure to create a cohesive color scheme throughout. 
 
 ## Screenshots 
-<div style="text-align:center">
 
-**Portfolio + About Me**
-</div>
+<h4 align="center">
+Portfolio + About Me
+</h4>
+
 
 <div style="text-align:center">
     <img src="assets/ss2.png" width="500" />
