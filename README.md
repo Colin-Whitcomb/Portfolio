@@ -23,13 +23,13 @@ Portfolio + About Me
 </h4>
 
 
-<div style="text-align:center">
+<p style="text-align:center">
     <img src="assets/ss2.png" width="500" />
-</div>
+</p>
 <br>
-<div style="text-align:center">
+<p style="text-align:center">
     <img src="assets/ss3.png" width="500" />
-</div>
+</p>
 
 
 ## Technologies / Resources
