@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-    <img src="assets/images/ss1.PNG" width="350" />
+    <img src="resources/ss1.PNG" width="350" />
 </div>
 <div style="text-align:center">
 
@@ -28,11 +28,11 @@ ___
 </div>
 
 <div style="text-align:center">
-    <img src="assets/images/ss2.PNG" width="325" />
+    <img src="resources/ss2.PNG" width="325" />
 </div>
 <br>
 <div style="text-align:center">
-    <img src="assets/images/ss3.PNG" width="325" />
+    <img src="resources/ss3.PNG" width="325" />
 </div>
 
 ___
